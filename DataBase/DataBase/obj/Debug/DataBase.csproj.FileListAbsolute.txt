@@ -1,0 +1,13 @@
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.SearchForm.resources
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.CreateForm.resources
+C:\Users\Денис\Documents\GitHub\DataBase\DataBase\DataBase\obj\Debug\DataBase.InfoForm.resources
