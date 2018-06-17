@@ -96,6 +96,7 @@
             this.label6.Size = new System.Drawing.Size(260, 57);
             this.label6.TabIndex = 5;
             this.label6.Text = "Your Data Base";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label7
             // 
